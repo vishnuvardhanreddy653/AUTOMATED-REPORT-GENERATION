@@ -22,5 +22,9 @@ The benefits of automated report generation are significant. First, it saves val
 
 OUTPUT:
 
+Generated sample_report.pfd file
+
+![Image](https://github.com/user-attachments/assets/1d392488-bb1a-4a97-aa8f-56e73dfa02b0)
+
 
 
